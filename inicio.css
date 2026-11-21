@@ -1,0 +1,67 @@
+.espacio {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background-color: rgba(145, 143, 141, 0.433);
+    text-align: center;
+    padding: 0;
+}
+p {
+    font-size: 25px;
+    margin: 1px auto;
+    height: 67px;
+}
+marquee {
+    margin: 0 ;
+    font-size: 46px;
+    border: 0px solid;
+    width: 410px;
+    height: 50px;;
+    padding: 12px
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+    height: 30px;
+}
+.lineas {
+    background-color: #0000008b;
+    height: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+h3 {
+    font-size: 30px;
+    background-color: rgba(128, 128, 128, 0.171);
+    padding: 10px;
+    margin: 12px auto;
+}
+a {
+    border: 2px solid;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.fondo2 {
+    margin: 1px 0px 0px 0px 20px;
+    padding: 0px;
+    background-image: url(susan-q-yin-2JIvboGLeho-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 155px;
+}
+.titulos {
+    font-size: 60px;
+    background-color: rgba(128, 128, 128, 0.422);
+    padding: 3px;
+    margin: 0px;
+    color: white;
+}
+.caja {
+    margin: 0px 0px 10px;
+    background-color: black;
+    border-top: 30px black;
+}
