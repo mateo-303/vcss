@@ -1,0 +1,6 @@
+input {border: solid 9px #beae16; padding: 5px; display: block; margin-bottom: 3px;  color: black; border-radius: 15px; }
+
+
+button {border: solid 5px #726d43; padding: 10px; display: block; margin-bottom: 15px; hover: background-color: #726d43; color: white; border-radius: 50px; text-align: center; background-color: #f5ad06; font-size: 20px; font-weight: bold; width: 100%; }
+
+title {font-size: 300px; font-weight: bold; text-align: center; color: #beab00; margin-bottom: 50px; }

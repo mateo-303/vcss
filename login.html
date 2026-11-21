@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="login.css">
+    <title>Iniciar sesión - Biblioteca Central</title>
+</head>
+<body style="background-color: #f5ad06;">
+
+    <header style="background-color: bisque;"> 
+        <nav>
+            <a href="inicio.html">← Volver al inicio</a>
+        </nav>
+    </header>
+
+    <main style="text-align: center;">
+        <audio  autoplay
+        loop>
+    <source src="fahhh_KcgAXfs.mp3" type="audio/mpeg">
+</audio>
+        <h1>Iniciar sesión</h1>
+
+        <form action="inicio.html" method="post" style="border: 5px solid #f5ad06; padding: 20px; width: 300px; margin: 0 auto;">
+
+            <label for="correo" >Correo:</label>
+            <input type="email" id="correo" name="correo" placeholder="tucorreo@ejemplo.com" required style="border-radius: 8px">
+            <br><br>
+
+            <label for="clave">Contraseña:</label>
+            <input type="password" id="clave" name="clave"style="border-radius: 8px" placeholder="Tu contraseña" required>
+            <br><br>
+
+            <input type="checkbox" id="recordar" name="recordar">
+            <label for="recordar">Recordarme</label>
+            <br><br>
+
+            <button type="submit">Entrar</button>
+        </form>
+
+        <p><a href="#">¿Olvidaste tu contraseña?</a></p>
+    </main>
+
+</body>
+</html>
