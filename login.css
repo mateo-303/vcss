@@ -1,6 +1,20 @@
-input {border: solid 9px #beae16; padding: 5px; display: block; margin-bottom: 3px;  color: black; border-radius: 15px; }
+input {
+    border-radius: 12px;
+    padding: 8px;
+    margin-bottom: 20px;
+}
 
 
-button {border: solid 5px #726d43; padding: 10px; display: block; margin-bottom: 15px; hover: background-color: #726d43; color: white; border-radius: 50px; text-align: center; background-color: #f5ad06; font-size: 20px; font-weight: bold; width: 100%; }
+button {border: solid 5px #726d43; padding: 10px; display: block; margin-bottom: 10px; color: white; border-radius: 30px; text-align: center; background-color: #72623e90; font-size: 15px; font-weight: bold; width: 100%; }
 
-title {font-size: 300px; font-weight: bold; text-align: center; color: #beab00; margin-bottom: 50px; }
+h1 {color: #201d18; font-size: 50px; font-weight: bold; text-align: center; background-color: #65603796; border-radius: 15px; padding: 10px; margin-bottom: 20px; 
+
+    font-family: 'georgia', sans-serif;
+    font-style: italic;
+
+a {
+    font-family: 'georgia', sans-serif;
+    
+    
+
+}
