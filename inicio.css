@@ -26,6 +26,8 @@ nav {
     text-align: center;
     background-color: black;
     height: 30px;
+    text-align: end;
+    padding: 5px;
 }
 .lineas {
     background-color: #0000008b;
@@ -40,10 +42,11 @@ h3 {
     margin: 12px auto;
 }
 a {
-    border: 2px solid;
     text-decoration: none;
     color: white;
+    padding: 2px;
     font-size: 25px;
+    margin: 1px;
 }
 .fondo2 {
     margin: 1px 0px 0px 0px 20px;
