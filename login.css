@@ -13,8 +13,46 @@ h1 {color: #201d18; font-size: 50px; font-weight: bold; text-align: center; back
     font-style: italic;
 }
 a {
+    text-decoration: none;
     font-family: 'georgia', sans-serif;
-    
-    
+    font-size: 25px;
+    color: rgb(100, 86, 224);
+}
+footer {
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    margin: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 0px 580px;
+    background-color: #33333300;
+    font-size: 20px;
+}
+li {
+    float: left;
+
+}
+li a {
+    display: block;
+    color: #474747f2;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: rgb(162, 162, 162);
+    height: 30px;
+    padding: 11px;
+    text-align: center;
+    text-align: center;
+    margin: 0px;
+
+}
+
+li a:hover {
+    background-color: #9998986b;
+    color: rgba(222, 88, 26, 0.501);
+    text-align: center;
 
 }
